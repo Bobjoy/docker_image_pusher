@@ -1,3 +1,4 @@
-nginx
-svhd/logto
-dockurr/windows
+#nginx
+#svhd/logto
+#dockurr/windows
+lscr.io/linuxserver/pairdrop:latest
