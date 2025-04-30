@@ -1,4 +1,5 @@
 #nginx
 #svhd/logto
 #dockurr/windows
-lscr.io/linuxserver/pairdrop:latest
+#lscr.io/linuxserver/pairdrop:latest
+docker.n8n.io/n8nio/n8n
